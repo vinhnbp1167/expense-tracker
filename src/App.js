@@ -1,4 +1,4 @@
-import React, { useEffect, useRef }from 'react'
+import React from 'react'
 import { Grid } from '@material-ui/core';
 import { PushToTalkButton, PushToTalkButtonContainer, ErrorPanel } from '@speechly/react-ui';
 
